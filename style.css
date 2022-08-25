@@ -106,3 +106,37 @@ button {
 button:hover {
   text-decoration: line-through;
 }
+
+/* section 2 */
+
+.section2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px 200px;
+}
+
+.imgs {
+  height: 100px;
+  width: 100px;
+  border: 5px solid #1f2937;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.infoblocks {
+  display: flex;
+}
+
+.empty-img-n-txt {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.txt {
+  text-align: center;
+}
+
+#section2txt {
+  color: #1f2937;
+  margin: 25px;
+}
