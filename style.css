@@ -157,3 +157,29 @@ button:hover {
   align-self: flex-end;
   margin-top: 20px;
 }
+
+/* section 4 */
+
+.sign-up-box {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  margin: 100px;
+  padding: 70px 30px;
+  background-color: #3882f6;
+}
+
+.text-sec4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  color: #e5e7eb;
+  width: 500px;
+}
+#sign-up-button {
+  border: 2px solid whitesmoke;
+  border-radius: 0px;
+  width: 150px;
+  height: 70px;
+}
