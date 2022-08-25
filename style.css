@@ -183,3 +183,14 @@ button:hover {
   width: 150px;
   height: 70px;
 }
+
+/* footer */
+
+footer {
+  height: 50px;
+  background-color: #1f2937;
+  color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
